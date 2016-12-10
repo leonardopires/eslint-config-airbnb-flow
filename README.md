@@ -15,7 +15,7 @@
 ## Install
 
 ```bash
-npm install eslint-config-airbnb-flow
+npm install eslint-config-airbnb-flow --save-dev
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ This Shareable Config adds Flow to the baseline Airbnb JavaScript Style rules pr
 Here's how to install everything you need:
 
 ```bash
-npm install eslint-config-airbnb eslint-config-airbnb-flow
+npm install eslint-config-airbnb eslint-config-airbnb-flow --save-dev
 ```
 
 Then, add this to your .eslintrc file:
