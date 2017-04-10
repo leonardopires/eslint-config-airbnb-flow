@@ -48,8 +48,9 @@
   "homepage": "https://github.com/johnie/eslint-config-airbnb-flow#readme",
   "devDependencies": {
     "ava": "*",
-    "xo": "*",
-    "eslint": "^3.6.0"
+    "eslint": "^3.6.0",
+    "flow-bin": "^0.43.1",
+    "xo": "*"
   },
   "dependencies": {
     "babel-eslint": "^7.2.1",
@@ -59,7 +60,8 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-react": "^6.3.0"
+    "eslint-plugin-react": "^6.3.0",
+    "eslint-plugin-no-use-extend-native": "^0.3.12"
   },
   "xo": {
     "esnext": true
